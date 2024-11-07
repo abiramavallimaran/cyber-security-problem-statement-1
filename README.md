@@ -47,4 +47,4 @@ In the age of wireless connectivity, the threat landscape has expanded significa
 
 ---
 
-This hackathon project aims to develop an end-to-end solution that enhances network security by proactively detecting rogue devices and analyzing network traffic for potential threats.
+### Note: This serves only as a reference example. Innovative ideas and unique implementation techniques are highly encouraged and warmly welcomed!
